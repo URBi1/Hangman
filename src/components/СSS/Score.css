@@ -1,0 +1,17 @@
+.Score {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .high-score {
+    color: #4CAF50;
+  }
+  
+  .medium-score {
+    color: #FFC107;
+  }
+  
+  .low-score {
+    color: #f44336;
+  }
+  

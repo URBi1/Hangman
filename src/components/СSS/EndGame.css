@@ -1,0 +1,25 @@
+.endgame-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.endgame-message {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.restart-button {
+    padding: 10px 15px;
+    font-size: 18px;
+    border: none;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+}
+
+.restart-button:hover {
+    background-color: #0056b3;
+}

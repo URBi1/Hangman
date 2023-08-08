@@ -1,0 +1,26 @@
+
+.Letter {
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin: 5px;
+    font-size: 1.5rem;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .Letter:hover {
+    background-color: #555;
+  }
+  
+  .Letter.selected {
+    background-color: #555;
+    text-decoration: line-through;
+    cursor: default;
+  }
+  

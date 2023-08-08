@@ -1,0 +1,20 @@
+.Solution {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+  
+  .Hint {
+    font-style: italic;
+  }
+
+  .Solution .Letter {
+    margin: 5px 10px; 
+    width: 40px;
+    height: 40px;
+    line-height: 40px; 
+    margin: 5px 10px;
+}
+  
